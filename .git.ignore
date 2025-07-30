@@ -1,0 +1,16 @@
+# Rendszerfájlok
+
+.DS_Store
+Thumbs.db
+
+# VS Code beállítások
+
+.vscode/
+
+# Node.js csomagok
+
+node_modules/
+
+# Log fájlok
+
+\*.log
